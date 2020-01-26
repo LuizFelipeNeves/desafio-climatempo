@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://desafio-climatempo.netlify.com/">
       <img src="http://i.imgur.com/Q9lCAMF.png" alt="Climatempo" width="300px"/>
-      <h1>Demo on Netlify</h1>
+      <h1 align="center">Demo on Netlify</h1>
   </a>
 </p>
 
